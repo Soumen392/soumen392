@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Track back**
 
-- 🌱 I’m currently learning **Python,flask**
+- 🌱 I’m currently learning **Web Dev and AI/ML**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **soumengoswami36@gmail.com**
 
