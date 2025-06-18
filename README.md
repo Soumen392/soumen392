@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1677431973169?e=1755734400&v=beta&t=Ab55_hBkXIaRE6QQK6Vce1gVsyFJeFOBBJERUutLI5Q)
 <h1 align="center">Hi 👋, I'm Soumen Goswami</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgur.com/x0SHYwu.gif">
